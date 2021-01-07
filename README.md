@@ -20,7 +20,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
 
-  <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/pin/?username=tairone32&repo=Aulas-Generation&anuraghazra&theme=radical&show_icons=true&show_owner=true"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tairone32&repo=Aulas-Generation&anuraghazra&theme=radical&show_icons=true&show_owner=true" style="max-width:100%;"></a>
+ 
    <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/pin/?username=tairone32&repo=CGeneration&anuraghazra&theme=radical&show_icons=true&show_owner=true"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tairone32&repo=Generation&anuraghazra&theme=radical&show_icons=true&show_owner=true" style="max-width:100%;"></a>
 </p>
 
