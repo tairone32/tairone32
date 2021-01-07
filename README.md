@@ -1,6 +1,6 @@
 
 
-![Welcome](/github-profile-header.png?raw=true)
+![Welcome](github-profile-header.jpg?raw=true)
 
 ##### Hi 👋
 
