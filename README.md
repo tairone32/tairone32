@@ -19,6 +19,14 @@ I'm passionate about solving problems and learning. Always open to new challenge
 </table>
 </center>  
 
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tairone32"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=julia-finassi&show_icons=true&include_all_commits=true&theme=buefy" alt="Lia's github stats" />
+</a>
+
+</br>
+
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tairone32"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=julia-finassi&layout=compact&theme=buefy" />
+</a>
+
 <h2> :globe_with_meridians: Vamos fazer NetWork, contem comigo: </h2>
 
 <p align="center">
